@@ -1,0 +1,34 @@
+{
+    "question": "Which is the best hotel of New York?",
+    "votes": {
+        "Answer1": {
+            "value": 0,
+            "percent": 0
+        },
+        "Answer2": {
+            "value": 0,
+            "percent": 0
+        },
+        "Answer3": {
+            "value": 3,
+            "percent": 37.5
+        },
+        "Answer4": {
+            "value": 4,
+            "percent": 50
+        },
+        "Answer5": {
+            "value": 0,
+            "percent": 0
+        },
+        "Answer6": {
+            "value": 0,
+            "percent": 0
+        },
+        "Answer7": {
+            "value": 1,
+            "percent": 12.5
+        }
+    },
+    "total": 8
+}
