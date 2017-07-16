@@ -2,7 +2,7 @@
 
 class Poll {
 
-    private $filename = './poll.json';
+    private $filename = __DIR__.'/poll.json';
     private $votes;
     private $question;
     private $total;
